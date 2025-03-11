@@ -1,6 +1,6 @@
 # Assortment Data Quality Analysis - A Business Case
 
-This project focuses on analyzing and resolving discrepancies between product data stored in the internal Product Information Management (PIM) system and the user-facing Catalog tool. The goal is to ensure consistency between the two systems, improve data accuracy, and prevent future issues. The project involves analyzing the product assortment, developing a resolution strategy, proposing preventive measures, and creating an implementation plan.
+This project focuses on analyzing and resolving discrepancies between product data stored in the internal Product Information Management (PIM) system and the user-facing Catalog tool of an e-commerce company. The goal is to ensure consistency between the two systems, improve data accuracy, and prevent future issues. The project involves analyzing the product assortment, developing a resolution strategy, proposing preventive measures, and creating an implementation plan.
 
 The dataset provided was previously anonymized for privacy reasons.
 
