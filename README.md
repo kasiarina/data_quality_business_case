@@ -54,7 +54,7 @@ Preventive Measures: A proposal to avoid future issues, focusing on system and p
 Implementation Plan: An operational approach detailing how resources will be utilized to execute the resolution strategy.
 
 ## Tools and Methodologies
-Data Analysis Tools: Python
+Data Analysis Tools: Python (Jupyter Notebooks).
 
 Presentation Tools: Google Slides.
 
