@@ -58,7 +58,7 @@ Data Analysis Tools: Python
 
 Presentation Tools: Google Slides.
 
-Next Steps
+## Next Steps
 Execute the Implementation Plan: Begin resolving discrepancies using the outlined operational process.
 
 Monitor Progress: Track the resolution process and ensure alignment between the PIM and Catalog systems.
